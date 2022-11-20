@@ -1,6 +1,6 @@
 # project js css html (Eng Readme)
 
-This project was created using HTML5, CSS3, CSS, JS and Firebase. It consists of a registration, authorization page and a sheet with tasks where they can be added, deleted, marked as completed and sorted.
+This project was created using VSCode, HTML5, CSS3, CSS, JS and Firebase. It consists of a registration, authorization page and a sheet with tasks where they can be added, deleted, marked as completed and sorted.
 
 ## Firebase
 
@@ -23,8 +23,6 @@ for this project, a database was created based on Firebase, which is used to sto
 <p>1. Registration</p>
 <img alt="task_list" src="./img_readme\eJdPOG9AJG.gif" >
 <p>2. authorization</p>
-
-
 
 
 
